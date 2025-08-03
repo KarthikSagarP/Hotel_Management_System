@@ -54,5 +54,5 @@ A complete Hotel Management System built with **Python**, featuring a **Tkinter 
    pip install -r requirements.txt
 4. **Run the application**:
    ```bash
-   python main_app.py
+   python hotel.py
 
