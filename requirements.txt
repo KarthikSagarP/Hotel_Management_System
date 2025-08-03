@@ -1,0 +1,9 @@
+
+---
+
+### 📦 `requirements.txt`
+
+```txt
+mysql-connector-python
+Pillow
+tk
